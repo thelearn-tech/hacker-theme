@@ -20,3 +20,10 @@
 </br>
 
 ## About
+I recreated the the original <a href="https://github.com/pages-themes/hacker">***pages-themes/hacker***</a> in *HTML CSS JS* which was in **markdown** and used **ruby(Jekyll highlighting)** so that this **Hacker theme** page can be use in other server and hosting site others than **GitHub**, which use standard **.html** format.
+
+## usage
+
+just get the file and edit them to your need and your good to go.
+
+***Absolutely free to use***
