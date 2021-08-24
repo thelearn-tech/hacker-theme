@@ -27,3 +27,14 @@ I recreated the the original <a href="https://github.com/pages-themes/hacker">**
 just get the file and edit them to your need and your good to go.
 
 ***Absolutely free to use***
+
+## resources
+
+Code highlighting from https://github.com/googlearchive/code-prettify
+
+
+Footer from https://www.w3schools.com/w3css/4/w3.css
+
+Font from https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css
+& 
+https://fonts.googleapis.com/css?family=Lato
