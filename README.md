@@ -26,7 +26,7 @@ I recreated the the original <a href="https://github.com/pages-themes/hacker">**
 
 just get the file and edit them to your need and your good to go.
 
-***Absolutely free to use***
+# Absolutely free to use
 
 ## resources
 
