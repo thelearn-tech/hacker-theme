@@ -1,7 +1,7 @@
 # hacker-theme
 
 
-![](https://raw.githubusercontent.com/thelearn-tech/hacker-theme/main/IMG_20210818_140648.jpg)
+![](https://raw.githubusercontent.com/thelearn-tech/img/main/IMG_20210830_121408.jpg)
 <br>
 </br>
 ![](https://img.shields.io/badge/Code_in-HTML-orange)
