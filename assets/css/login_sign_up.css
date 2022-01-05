@@ -1,0 +1,74 @@
+body {
+background: #1A1A1A;
+font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;;
+}
+.login {
+width: 400px;
+margin: 16px auto;
+font-size: 16px;
+}
+/* Reset top and bottom margins from certain elements */
+.login-header,
+.login p {
+margin-top: 0;
+margin-bottom: 0;
+}
+.login-header {
+background: #3D3D3D;
+padding: 20px;
+font-size: 35px;
+font-weight: bold;
+text-align: center;
+color:  #B5E853;
+}
+.login-container {
+background: #3D3D3D;
+padding: 12px;
+}
+/* Every row inside .login-container is defined with p tags */
+.login p {
+padding: 12px;
+}
+.login input {
+box-sizing: border-box;
+display: block;
+width: 100%;
+border-width: 1px;
+border-style: dashed;
+border-color: #B5E853;
+padding: 16px;
+outline: 0;
+/*font-family: inherit;
+*/font-size: 0.95em;
+}
+.login input[type="text"],
+.login input[type="email"],
+.login input[type="password"] {
+background: #3D3D3D;
+border-color: #bbb;
+color: white;
+}
+/* Text fields' focus effect */
+.login input[type="text"]:focus,
+.login input[type="email"]:focus,
+.login input[type="password"]:focus {
+border-color: #888;
+}
+.login input[type="submit"] {
+background: #3D3D3D;
+border-color: transparent;
+color:  #B5E853;
+cursor: pointer;
+}
+.login input[type="submit"]:hover {
+background: #3D3D3D;
+}
+/* Buttons' focus effect */
+.login input[type="submit"]:focus {
+border-color: #05a;
+}
+::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+color: #B5E853;
+opacity: 1; /* Firefox */
+}
+.linkk {color: #6CBDEC; filter: blur(0.2px); -webkit-filter: blur(0.2px);}
