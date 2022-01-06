@@ -10,6 +10,7 @@
 <br>
 </br>
 ![](https://img.shields.io/badge/Maintained-Yes-green)
+![](https://img.shields.io/badge/Version-1.1-yellow)
 <br>
 </br>
 <a href="https://github.com/thelearn-tech/hacker-theme/issues">
@@ -25,6 +26,12 @@ I recreated the the original <a href="https://github.com/pages-themes/hacker">**
 ## usage
 
 just get the file and edit them to your need and your good to go.
+## Update
+ **Login page**
+
+
+ **assets fix**
+
 
 # Absolutely free to use
 
