@@ -1,3 +1,5 @@
+/* version 1.0.1 */
+
 body {
 margin: 0;
 padding: 0;
@@ -11,8 +13,6 @@ line-height: 1.5;
 font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;;
 text-align: left;
 margin: 0 0 20px;
-filter: blur(0.2px);
--webkit-filter: blur(0.2px);
 }
 p {
 color: #FFFFFF;
@@ -20,7 +20,7 @@ padding-left: 30px;
 font-size: 15px;
 font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;;
 }
-hr {
+.hr {
 border: 0;
 border-top: 2px dashed #B5E853;
 }
@@ -105,7 +105,7 @@ ol {display: table; margin-left: 0; margin-right: auto; list-style-position: ins
 .strickthrough {text-decoration: line-through;}
 .underline {text-decoration: underline;}
 .keyword {color: #E867E8; border: 1px solid gray; background-color: black; padding: 2px 2px; }
-.linkk {color: #6CBDEC; text-decoration: underline; filter: blur(0.2px); -webkit-filter: blur(0.2px);}
+.linkk {color: #6CBDEC; text-decoration: underline;}
 .w3-black,.w3-hover-black:hover{color:#BAB9B9!important;background-color:#000!important}
 /* margin for button */
 .leftmar {margin-left: 30px;}

@@ -1,3 +1,4 @@
+/* vesion 1.0.1 */
 body {
 background: #1A1A1A;
 font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;;
@@ -71,4 +72,4 @@ border-color: #05a;
 color: #B5E853;
 opacity: 1; /* Firefox */
 }
-.linkk {color: #6CBDEC; filter: blur(0.2px); -webkit-filter: blur(0.2px);}
+.linkk {color: #6CBDEC;}
