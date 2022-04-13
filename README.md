@@ -10,7 +10,7 @@
 <br>
 </br>
 ![](https://img.shields.io/badge/Maintained-Yes-green)
-![](https://img.shields.io/badge/Version-1.1-yellow)
+![](https://img.shields.io/badge/Version-1.0.1-yellow)
 <br>
 </br>
 <a href="https://github.com/thelearn-tech/hacker-theme/issues">
