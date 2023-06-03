@@ -22,7 +22,11 @@
 
 ## About
 I recreated the the original <a href="https://github.com/pages-themes/hacker">***pages-themes/hacker***</a> in *HTML CSS JS*.Which is in **markdown** and used **ruby(Jekyll highlighting)**. This **Hacker theme** page(HTML template) can be use in other server and hosting site others than **GitHub**, which use standard **.html** format.
-
+## Caution 
+IP address is provided from
+**api.ipify.org**. Read there **Policy** before deployment.
+      
+      
 ## usage
 
 just get the file and edit them to your need and your good to go.
