@@ -1,7 +1,7 @@
 # hacker-theme
 
 
-![](https://raw.githubusercontent.com/thelearn-tech/img/main/IMG_20210830_121408.jpg)
+![](.repo/hacker-theme.jpg)
 <br>
 </br>
 ![](https://img.shields.io/badge/Code_in-HTML-orange)
@@ -21,31 +21,40 @@
 </br>
 
 ## About
-I recreated the the original <a href="https://github.com/pages-themes/hacker">***pages-themes/hacker***</a> in *HTML CSS JS*.Which is in **markdown** and used **ruby(Jekyll highlighting)**. This **Hacker theme** page(HTML template) can be use in other server and hosting site others than **GitHub**, which use standard **.html** format.
+This is a recreation of <a href="https://github.com/pages-themes/hacker">***pages-themes/hacker***</a> in `HTML`. 
+The original project used **markdown** and **ruby(Jekyll highlighting)** for easy maintainability. 
+
+This project simply allows you to host this theme in any standard web server, without any special needs (i.e. MD or Jekyll).
+
 ## Caution 
 IP address is provided from
-**api.ipify.org**. Read there **Policy** before deployment.
-      
-      
-## usage
+~~**api.ipify.org**. Read there **Policy** before deployment.~~
+<br>
+will be removed soon.
 
-just get the file and edit them to your need and your good to go.
-## Update
- **Login page**
+## Usage
 
+Simply clone & `*modify*`
+<br>
 
- **assets fix**
+`git clone https://github.com/thelearn-tech/hacker-theme.git`
 
+<br>
+
+OR
+<br>
+
+Download as a .zip <a href="https://github.com/thelearn-tech/hacker-theme/archive/refs/heads/main.zip">hacker-theme.zip</a>
+<br>
 
 # Absolutely free to use
 
 ## resources
 
-Code highlighting from https://github.com/googlearchive/code-prettify
-
-
-Footer from https://www.w3schools.com/w3css/4/w3.css
-
-Font from https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css
+Code highlighting from <a href="https://github.com/googlearchive/code-prettify">code-prettify</a>
+<br>
+Footer from <a href="https://www.w3schools.com/w3css/4/w3.css">W3.css</a>
+<br>
+Font from <a href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">FontAwesone 4.7.0 CDN</a>
 & 
-https://fonts.googleapis.com/css?family=Lato
+<a href="https://fonts.googleapis.com/css?family=Lato">google's font family Lato</a>
