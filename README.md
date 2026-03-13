@@ -44,7 +44,7 @@ IP address is provided from
 OR
 
 
-`Download as a <a href="https://github.com/thelearn-tech/hacker-theme/archive/refs/heads/main.zip">.zip</a>`
+<a href="https://github.com/thelearn-tech/hacker-theme/archive/refs/heads/main.zip">`Download as a  .zip`</a>
 
 <br>
 
